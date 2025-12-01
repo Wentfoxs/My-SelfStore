@@ -1,0 +1,8 @@
+id: my-custom-store
+name: "My Custom Store"
+description: "Custom App Store with TorrServe"
+apps:
+  - id: torrserve
+    name: TorrServe
+    version: "1.0.0"
+    icon: apps/torrserve/icon.png

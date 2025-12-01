@@ -1,0 +1,9 @@
+id: torrserve
+name: TorrServe
+version: "1.0.0"
+port: 8090
+description: >-
+  TorrServe — потоковое воспроизведение торрентов на лету.
+dependencies: []
+author: "You"
+category: Media

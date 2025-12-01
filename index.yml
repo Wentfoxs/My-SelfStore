@@ -1,8 +1,6 @@
-id: my-custom-store
-name: "My Custom Store"
-description: "Custom App Store with TorrServe"
+id: my-umbrel-store
+name: "My Umbrel Store"
+description: "Custom App Store with TorrServe for Umbrel OS"
+maintainer: "Your Name"
 apps:
-  - id: torrserve
-    name: TorrServe
-    version: "1.0.0"
-    icon: apps/torrserve/icon.png
+  - torrserve

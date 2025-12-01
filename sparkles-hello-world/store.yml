@@ -1,0 +1,5 @@
+id: my-custom-store
+name: "My Custom Store"
+version: "1.0.0"
+apps:
+  - torrserve
